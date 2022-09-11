@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GeekEdmund
-- 👀 I’m interested in Analysis and designs of Algorithms and Cyber security.
+- 👀 I’m interested in Analysis and designs of Algorithms and Deep learning.
+- 📚 A full stack developer.
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any platform
 - 📫 How to reach me jacoboduor8890@yahoo.com
