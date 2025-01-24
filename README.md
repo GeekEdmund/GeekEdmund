@@ -29,10 +29,10 @@ Hello there! 👋 I'm Jacob, a **Computer Science graduate** with a passion for 
 ---
 
 ## 💡 **What I Work On**
-1. **Web Development**: Full-stack web applications with a focus on performance and scalability.  
+1. **Web & Mobile App Development**: Full-stack web applications with a focus on performance and scalability.  
 2. **Machine Learning**: Building AI models for NLP, Computer Vision, and Recommendation Systems.  
 3. **Cloud Infrastructure**: Containerized, scalable, and reliable solutions.  
-4. **Database Management**: Handling structured and vector-based data.  
+4. **Database**: Handling structured and vector-based data.  
 5. **Integrations**: Twilio APIs, Strapi CMS, and SendGrid messaging.  
 
 ---
@@ -41,7 +41,7 @@ Hello there! 👋 I'm Jacob, a **Computer Science graduate** with a passion for 
 
 ### **Languages**
 ```txt
-Python | JavaScript | PHP | SQL | Bash | C
+Python | JavaScript | Java | Kotlin | PHP | SQL | Bash | C | C++
 ```
 
 ### **Frameworks & Libraries**
@@ -54,13 +54,6 @@ FastAPI | Laravel | Flask | React | Node.js | TensorFlow | PyTorch | Scikit-lear
 Docker | Podman | Kubernetes | GitHub Actions | AWS | Vultr | Milvus | Qdrant
 ```
 
----
-
-## 📈 **GitHub Stats**
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideabanker&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ideabanker&layout=compact&theme=radical)  
-
----
 
 ## ✉️ **Get In Touch**
 - **Email**: [jacobsnipes254@gmail.com](#)  
